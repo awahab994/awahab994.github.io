@@ -28,9 +28,9 @@ Welcome to my GitHub profile! I'm Abdul Wahab, a seasoned full-stack developer w
 
 Feel free to reach out to me for collaboration or job opportunities.
 
-- **Email:** [your.email@example.com](mailto:awahab94@outlook.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/awahab94/)
-- **Website:** [yourwebsite.com](https://abdulwahab.xyz)
+- **Email:** [awahab94@outlook.com](mailto:awahab94@outlook.com)
+- **LinkedIn:** [linkedin.com/in/awahab94/](https://www.linkedin.com/in/awahab94/)
+- **Website:** [abdulwahab.xyz](https://abdulwahab.xyz)
 
 ## Skills & Expertise
 
